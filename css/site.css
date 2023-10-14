@@ -1,0 +1,8 @@
+.completed-item {
+  text-decoration: line-through;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 1.5rem;
+}
